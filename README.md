@@ -72,7 +72,7 @@ The application follows a layered architecture:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/gawad1/device-price-api.git
+   git clone https://github.com/Gawad1/Devices-Price-Classification-System.git
    cd device-price-api
    ```
 
